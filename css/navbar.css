@@ -2,7 +2,6 @@
     display: flex;
     margin: 0 auto;
     justify-content: flex-start;
-    width: 100%;
     background-color: rgba(8, 7, 7, 0.596);
     opacity: 1;
     z-index: 100;
